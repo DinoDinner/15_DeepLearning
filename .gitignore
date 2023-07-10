@@ -26,3 +26,6 @@
 99_StudyFiles/02_Data/MNIST/raw/train-images-idx3-ubyte.gz
 99_StudyFiles/02_Data/MNIST/raw/train-labels-idx1-ubyte
 99_StudyFiles/02_Data/MNIST/raw/train-labels-idx1-ubyte.gz
+01_Study/.DS_Store
+.DS_Store
+01_Study/03_VGG_Finetuning/vgg11-bbd30ac9.pth
